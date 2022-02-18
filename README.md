@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @assadounto
+- 👋 Hi, I’m Richmond Adu-kyere   @assadounto
 - 👀 I’m interested in Python, c, c++ ,javascript,html,css
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development and app development
