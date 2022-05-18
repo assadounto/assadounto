@@ -78,7 +78,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=assadounto&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=assadounto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> <!-- Markdown -->
   <h2 class"pt-2">Thanks for visiting my profile here is a joke for you</h2>
