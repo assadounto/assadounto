@@ -14,13 +14,7 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=assadountoflat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   
-</h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
@@ -34,7 +28,7 @@
 
 - :seedling: Exploring Artificial Intelligence.
 
-- :zap: In my free time, I solve problems on hackerank, read tech articles and code Arduino and Rasberrypi
+- :zap: In my free time, I solve problems on hackerrank, read tech articles and code Arduino and Rasberrypi
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-richadu-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/richmond-adu-kyere-911693236)<a href="mailto:adukyerer@gmail.com"> <img src="https://img.shields.io/badge/richadu-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
