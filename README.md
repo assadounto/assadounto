@@ -1,83 +1,156 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    
-  <a href="https://www.linkedin.com/in/richmond-adu-kyere-911693236">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=233556255233&text=Hi%20there!%20Thanks%20for%20reaching%20out!%20I%20will%20be%20with%20you%20in%20a%20moment!">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-     
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=assadountoflat-square&color=blue" alt=""/>
-  <div align="center">
-</div>
+<div align="center">
 
+# Hi, I'm Richmond Adu-Kyere 👋
+
+### Full-Stack & Mobile Software Engineer • Electrical/Electronics Engineer • IoT Builder
+
+I build production software, mobile applications, marketplaces, automation systems, and embedded prototypes that connect software with the physical world.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richmond%20Adu--Kyere-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richmond-adu-kyere-911693236)
+[![Gmail](https://img.shields.io/badge/Email-adukyerer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adukyerer@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=assadounto&style=for-the-badge)](https://github.com/assadounto)
 
 </div>
 
 ---
 
-### 👨‍🎓: About Me :
-  I am an Electrical Engineer and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
-- :telescope: I’m contributing to frontend and backend for building web applications.
+## 👨🏽‍💻 About Me
 
-- :seedling: Exploring Artificial Intelligence.
+I'm a Ghana-based engineer working across **software engineering, mobile development, electrical/electronics engineering, and IoT systems**.
 
-- :zap: In my free time, I solve problems on hackerrank, read tech articles and code Arduino and Rasberrypi
+My work ranges from building scalable web and mobile products to creating embedded systems with Arduino, ESP8266, ESP32, sensors, relays, motors, communication modules, and custom control systems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-richadu-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/richmond-adu-kyere-911693236)<a href="mailto:adukyerer@gmail.com"> <img src="https://img.shields.io/badge/richadu-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+I enjoy solving practical problems — especially when software, electronics, automation, commerce, and real-world engineering come together.
 
+- 🚀 Building and improving digital products, marketplaces, APIs, and mobile apps
+- 🛒 Working on **Xonbay**, a social-commerce and multi-vendor marketplace
+- 📱 Building mobile experiences with **React Native and Expo**
+- ⚙️ Building backend systems with **Ruby on Rails, PostgreSQL, Redis, and background jobs**
+- 🌐 Building modern web applications with **Next.js, React, TypeScript, and Tailwind CSS**
+- 🔌 Designing IoT and embedded prototypes with **Arduino, ESP8266, ESP32, sensors, relays, motors, LCDs, and automation hardware**
+- ⚡ Combining my software background with electrical/electronics engineering
+- 🧠 Interested in AI, automation, intelligent monitoring, and practical engineering systems
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+## 🧰 Software Stack
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+</p>
+
+- React
+- Next.js
+- React Native
+- Expo
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Redux Toolkit / RTK Query
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,git,github,firebase,aws" />
+</p>
+
+- Ruby on Rails
+- REST APIs
+- PostgreSQL
+- Redis
+- Sidekiq
+- Docker
+- Firebase
+- AWS
+- Git & GitHub
+
+---
+
+## ⚡ Electrical, Embedded & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
+</p>
+
+I also build hardware prototypes and control systems using:
+
+- Arduino Nano / Uno
+- ESP8266 / NodeMCU
+- ESP32 / ESP32-CAM
+- Raspberry Pi
+- I2C LCD displays
+- Temperature, gas, ultrasonic, current, voltage and other sensors
+- Relays, MOSFETs and motor drivers
+- DC motors, solenoids and actuators
+- Telegram, Wi-Fi and web-based IoT control
+- Power monitoring and automation systems
+
+---
+
+## 🚀 What I Build
+
+### 🛒 Commerce & Marketplace Systems
+Multi-vendor marketplaces, social commerce, shop management, payments, ordering, delivery coordination, escrow flows, dashboards, vendor tools, and mobile commerce experiences.
+
+### 📱 Mobile Applications
+Cross-platform mobile applications using React Native and Expo, including authentication, payments, notifications, offline-first flows, API integration, and production deployment.
+
+### 🌐 Web Platforms
+Modern web applications and dashboards using Next.js, Rails APIs, PostgreSQL, Redis, authentication, background processing, and cloud infrastructure.
+
+### 🤖 IoT & Automation
+Smart monitoring systems, access control, environmental sensing, motor control, smart energy projects, transformer monitoring, automated switching, alerts, and remote control systems.
+
+### ⚡ Engineering Prototypes
+Projects involving electrical measurement, automation, renewable energy, power systems, sensors, embedded controllers, and practical student/research prototypes.
+
+---
+
+## 🧩 Current Areas of Interest
+
+- Scalable marketplace architecture
+- Offline-first applications
+- AI-assisted applications
+- IoT monitoring
+- Embedded automation
+- Electrical power monitoring
+- Renewable energy systems
+- Performance engineering
+- Real-time systems
+- Digital commerce in Africa
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=assadounto&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assadounto&layout=compact&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=assadounto&hide_border=true" />
+
 </div>
 
 ---
 
-### :bulb: Prototypes :
- <div id="badges">
-    
-  <a href="#">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-  </a>
-  
-  </div>
-  
+## 🤝 Let's Connect
+
+I'm always interested in working on useful products, engineering systems, startups, IoT solutions, marketplaces, and software that solves real problems.
+
+📍 Ghana  
+📧 **adukyerer@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/richmond-adu-kyere-911693236)
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=assadounto&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
 
-<div> <!-- Markdown -->
-  <h2 class"pt-2">Thanks for visiting my profile here is a joke for you</h2>
-<div><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></di></di>
-<!---
-assadounto/assadounto is a ✨ spe
-cial ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Building software. Building hardware. Solving real problems.
+
+</div>
